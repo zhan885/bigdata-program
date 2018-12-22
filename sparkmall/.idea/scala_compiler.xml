@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="sparkcommon">
+      <option name="postfixOps" value="true" />
+    </profile>
+    <profile name="Maven 2" modules="spark-common,sparkmall-offline,spark-mock" />
+  </component>
+</project>
